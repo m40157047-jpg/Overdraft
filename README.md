@@ -5,3 +5,4 @@ Overdraft — ваш личный финансовый помощник, кот�
 <div align="center"><img width="300" height="500" alt="rXGBm0oiRjWBjKfJ4WVT5hoYDTMQdfzhkzx23Af6kxKeDVv6YL4yfwhs33f1gbi-ne7hvS36-Ttzf8nBfTCPvX1A" src="https://github.com/user-attachments/assets/08d93577-e3de-47ed-9afe-d5ac7ef96b74" /></div>
 <div align="center"><img width="300" height="500" alt="noMB76e_xL-W6d2eVuQHy8Lz68MBOnSah9B4qjAYSLExccDQz1A7Lbny6QGMFdu_yU_bm4xea85ZwtfaCreFD4Jk" src="https://github.com/user-attachments/assets/2ac3f27e-9a43-4bf8-8f31-5d8eb62eb998" /></div>
 <div align="center"><img width="300" height="500" alt="3c0f0O5K8iLwsh-BI29IwFuAquUZV6IRWIzek1PuZkOzdj_LI6heV1896XBoquqZwrWUgVsxR6LOhPq1v2i_t3CR" src="https://github.com/user-attachments/assets/488000d3-da8d-46c5-9656-fcc9a4ae0d80" /></div>
+Скачать программу https://github.com/m40157047-jpg/Overdraft/releases
