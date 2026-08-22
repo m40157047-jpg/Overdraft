@@ -1,5 +1,14 @@
 # Overdraft
 Overdraft — ваш личный финансовый помощник, который работает полностью офлайн.  Все данные хранятся только на вашем телефоне, надёжно зашифрованы и никогда не передаются в Интернет.
+Что умеет приложение:
+    Автоматический учёт расходов и доходов, в том числе из SMS банков.
+    Создание бюджетов и отслеживание перерасхода.
+    Финансовые цели с прогрессом.
+    Управление долгами и напоминания о возврате.
+    Наглядная аналитика в виде графиков.
+    Импорт и экспорт данных в Excel и CSV.
+    Резервное копирование и восстановление.
+    Тёмная и светлая тема.
 <div align="center"><img width="300" height="500" alt="JcSv0oklIa9hySMHfyna1-REs-B9MRNZTHeFHOHmNFAoZ8qcz30mbjF08g9wW9a_DL2VI2fOj5kR-EufykYk7OnY" src="https://github.com/user-attachments/assets/ebe4eebb-340a-4aee-a4c7-be2e6525e307" /></div>
 <div align="center"><img width="300" height="500" alt="pN7mXDmcPg_7Qp0lf0dcUvDLN7YZAWXR8fWf1w4rfGmb2Zb4I_UolimbVUYECiuByLIFPvltXrqmAmiXCsWzUzR8" src="https://github.com/user-attachments/assets/0b820b17-d1db-4a7e-a97d-b2f9b27008fa" /></div>
 <div align="center"><img width="300" height="500" alt="rXGBm0oiRjWBjKfJ4WVT5hoYDTMQdfzhkzx23Af6kxKeDVv6YL4yfwhs33f1gbi-ne7hvS36-Ttzf8nBfTCPvX1A" src="https://github.com/user-attachments/assets/08d93577-e3de-47ed-9afe-d5ac7ef96b74" /></div>
